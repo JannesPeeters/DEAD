@@ -10,4 +10,4 @@ From the peaks of the highest mountains to the depths of the deepest oceans, our
 For the past five years, we've been documenting all sales conducted by our company. Our aim has been to deepen our understanding of the market and develop a fresh marketing approach. We're seeking your assistance to transform our data into informative visuals that can aid our marketing strategists in crafting this new strategy. Specifically, we're keen on uncovering trends, analyzing delivery times, pinpointing successful and unsuccessful products, and gauging how well our company is known in the forgotten realms.
 
 ### Credits
-Original data and case design by Kurt Buhler [Data Goblins](https://data-goblins.com/), modified by Jannes Peeters.
+Original data and case design by Kurt Buhler ([Data Goblins](https://data-goblins.com/)), modified by Jannes Peeters.
