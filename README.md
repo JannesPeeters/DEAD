@@ -24,3 +24,6 @@ A list of all orders placed with our company over the past five years. Each orde
 
 ## Credits
 Original data and case design by Kurt Buhler ([Data Goblins](https://data-goblins.com/)), modified by Jannes Peeters.
+
+
+![Sopra Steria](img/Original_linkedin_banner_ordina_202309.jpg)
